@@ -61,17 +61,17 @@ const Hero = () => {
               <p className="regular-16 text-gray-20 ">Location</p>
               <Image src="/close.svg" alt="close" width={24} height={24} />
             </div>
-            <p className="bold-20 text-white">Marine drive</p>
+            <p className="bold-20 text-white">Kudremukh Peak</p>
           </div>
 
           <div className="flexBetween">
             <div className="flex flex-col">
               <p className="regular-16 block text-gray-20">Distance</p>
-              <p className="bold-20 text-white">173.29 kms</p>
+              <p className="bold-20 text-white">18.29 kms</p>
             </div>
             <div className="flex flex-col">
-              <p className="regular-16 block text-gray-20">Elevation</p>
-              <p className="bold-20 text-white">2.4 kms</p>
+              <p className="regular-16 block text-gray-20">Altitude</p>
+              <p className="bold-20 text-white">6,207 ft</p>
             </div>
           </div>
         </div>
