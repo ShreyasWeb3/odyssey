@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js] project .
 
 ## Getting Started
+
+Intall Node 18 using NVM 
+
+```bash
+nvm use
+```
 
 First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## About Odyssey
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Introducing the Ultimate Trekking App:
 
-## Learn More
+Embark on your next adventure with confidence using our feature-packed trekking app. Whether you're a solo hiker or planning a thrilling escapade with friends, our application is designed to enhance your outdoor experiences in countless ways.
 
-To learn more about Next.js, take a look at the following resources:
+1. Offline Maps for Uninterrupted Exploration: Say goodbye to connectivity worries. Our app provides offline maps that you can access whenever and wherever you are, even in remote locations with no signal. You can trust our maps to guide you on your journey, regardless of your connectivity.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Adventure Scheduling Made Easy: Coordinate your treks with friends effortlessly. Our app allows you to schedule your adventures, ensuring everyone's on the same page when it comes to your hiking plans. No more confusion or last-minute changes; our app streamlines your outdoor group activities.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. Exclusive Holiday Offers from Hilink: Make your holidays extra special with the fantastic deals and offers available through Hilink. We've got a wide range of exciting promotions that cater to adventure enthusiasts, making your trekking experience even more enjoyable.
 
-## Deploy on Vercel
+4. Augmented Reality Trail Guidance: Step into the future of hiking with augmented reality technology. Our app utilizes AR to act as your personal guide through the wilderness, from lush forests to towering mountain peaks. It's like having an expert hiker by your side, offering directions and insights without the need for an internet connection.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+5. Worldwide Community for Fresh Locations: Every month, we introduce exciting new trekking locations. How do we do it? We tap into a global community of climbers who generously share their best experiences with us. Discover hidden gems and popular trails that promise unforgettable adventures.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+In a world where technology meets the great outdoors, our trekking app ensures that you're well-prepared, well-connected, and well-informed for all your hiking expeditions. Join us on a journey of exploration, discovery, and camaraderie, and take your trekking experiences to the next level.
