@@ -2,7 +2,7 @@ This is a [Next.js] project .
 
 ## Getting Started
 
-Intall Node 18 using NVM 
+Install Node 18 using NVM 
 
 ```bash
 nvm use
